@@ -10,7 +10,7 @@ I like setting up and fixing things: networks, servers, hardware, and Android de
 | [Lumen](https://github.com/RonEH148/lumen-browser) | Web browser for Android TV (based on TV Bro): ad and pop-up blocking, video player, error pages, dark mode |
 | [Wisp](https://github.com/RonEH148/wisp-browser) | Lightweight, private phone version of Lumen |
 | [LeanKeyboard Plus](https://github.com/RonEH148/leankeyboard-plus) | On-screen keyboard for Android TV with its own update channel |
-| [Just Player URL](https://github.com/RonEH148/Player) | Video player for TV and tablet (based on Just Player) – also my build hub: all APKs are built with GitHub Actions and published on its Releases page |
+| [Gamma Player](https://github.com/RonEH148/Player) | Video player for TV and tablet (based on Just Player) – also my build hub: all APKs are built with GitHub Actions and published on its Releases page |
 
 ## Skills
 - **Networks & hardware:** router and Wi-Fi setup (FRITZ!Box), smart-home devices, diagnosing and repairing laptops and hard drives
