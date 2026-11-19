@@ -16,7 +16,7 @@ I like setting up and fixing things: networks, servers, hardware, and Android de
 - **Networks & hardware:** router and Wi-Fi setup (FRITZ!Box), smart-home devices, diagnosing and repairing laptops and hard drives
 - **Servers:** in my bachelor project *SCOHA* (2019) I set up and ran the server and trained the machine-learning models that processed text sent from a mobile app
 - **Build & release:** Gradle, GitHub Actions, Android release signing, in-app update channels
-- **Basics:** operating systems, computer networks, databases, programming (Kotlin, Java, Python)
+- **Basics:** operating systems, computer networks, databases, programming (Kotlin, Java)
 
 ## Languages
-German (B2) · English (fluent, IELTS 7.0) · Hindi (native)
+German (B2, written exam passed) · English (fluent, IELTS 7.0) · Hindi (native)
